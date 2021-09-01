@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![RGB](https://i.makeagif.com/media/5-08-2018/MMrkDm.gif)
+![RGB](https://thumbs.gfycat.com/GloomySkeletalAfricanbushviper-max-14mb.gif)
 
