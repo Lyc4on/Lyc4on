@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Lyc4on/Lyc4on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![RGB](https://i.makeagif.com/media/5-08-2018/MMrkDm.mp4)
+
