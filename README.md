@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="kali.gif" width="100%" height="100%"/>
+<img src="Kali.gif" width="100%" height="100%"/>
 
