@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://thumbs.gfycat.com/GloomySkeletalAfricanbushviper-max-14mb.gif" width="100%" height="100%"/>
+<img src="kali.gif" width="100%" height="100%"/>
 
